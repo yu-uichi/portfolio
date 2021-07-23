@@ -124,4 +124,6 @@ footer {
   .thumbnail img {
     height: 100%;
 }
-.main {text-align: center;}
+.buttons img :hover {
+  opacity: 0.75; /* 25％ほど透明にする */
+}
