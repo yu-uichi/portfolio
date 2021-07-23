@@ -104,14 +104,14 @@ footer {
     opacity: 0.75;
   }
   
-  section[role="mains"]>article,
-  section[role="mains"]>aside {
+  section[role="main"]>article,
+  section[role="main"]>aside {
     width: 960px;
     max-width: 95vw;
     margin: 0 auto;
   }
   
-  section[role="mains"] {
+  section[role="main"] {
     padding-top: 120px;
     padding-bottom: 120px;
   }
@@ -124,4 +124,4 @@ footer {
   .thumbnail img {
     height: 100%;
 }
-.mains {text-align: center;}
+.main {text-align: center;}
