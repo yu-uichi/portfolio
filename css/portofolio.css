@@ -8,7 +8,7 @@
     font-family: Avenir , "Open Sans" , "Helvetica Neue" , Helvetica , Arial , Verdana , Roboto , "æ¸¸ã‚´ã‚·ãƒƒã‚¯" , "Yu Gothic" , "æ¸¸ã‚´ã‚·ãƒƒã‚¯ä½“" , "YuGothic" , "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3" , "Hiragino Kaku Gothic Pro" , "Meiryo UI" , "ãƒ¡ã‚¤ãƒªã‚ª" , Meiryo , "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯" , "MS PGothic" , sans-serif;
     width: 100%;
     height: 100%;
-    font-family: "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "ãƒ¡ã‚¤ãƒªã‚ª", Meiryo, "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", "MS PGothic", sans-serif;
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "ãƒ¡ã‚¤ãƒªã‚ª", Meiryo, "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", "MS PGothic", sans-serif;
     font-size: 14pt;
     background-color: rgb(72, 177, 209);
   }
@@ -124,4 +124,4 @@ footer {
   .thumbnail img {
     height: 100%;
 }
-
+.mains {text-align: center;}
