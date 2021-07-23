@@ -77,3 +77,51 @@ document.getElementById('sc-to-right').addEventListener('click', nextImage);
 
 // タイマーセット
 setInterval(nextImage, 5000);
+$(function() {
+ 
+    //マウスを乗せたら発動
+    $('a').hover(function() {
+   
+      //マウスを乗せたら色が変わる
+      $(this).css('background', '#90EE90');
+   
+    //ここにはマウスを離したときの動作を記述
+    }, function() {
+   
+      //色指定を空欄にすれば元の色に戻る
+      $(this).css('background', '');
+   
+    });
+  });
+  $(function() {
+   
+    //マウスを乗せたら発動
+    $('b').hover(function() {
+   
+      //マウスを乗せたら色が変わる
+      $(this).css('background', '#FFFF00');
+   
+    //ここにはマウスを離したときの動作を記述
+    }, function() {
+   
+      //色指定を空欄にすれば元の色に戻る
+      $(this).css('background', '');
+   
+    });
+  });
+  $(function() {
+   
+    //マウスを乗せたら発動
+    $('img').hover(function() {
+   
+      //マウスを乗せたら色が変わる
+      $(this).css('background', '#FFFF00');
+   
+    //ここにはマウスを離したときの動作を記述
+    }, function() {
+   
+      //色指定を空欄にすれば元の色に戻る
+      $(this).css('background', '');
+   
+    });
+  });
