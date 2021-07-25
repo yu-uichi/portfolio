@@ -103,7 +103,6 @@ footer {
     text-align: center;
     opacity: 0.75;
   }
-  
   section[role="main"]>article,
   section[role="main"]>aside {
     width: 960px;
@@ -124,6 +123,35 @@ footer {
   .thumbnail img {
     height: 100%;
 }
-.buttons img :hover {
+h2{
+  text-align: center;
+}
+.circle {
+  background-color: #eee;     /* 背景色指定 */
+  padding:  10px;             /* 余白指定 */
+}
+#photo-1:hover {
   opacity: 0.75; /* 25％ほど透明にする */
 }
+#photo-2:hover {
+  opacity: 0.75; /* 25％ほど透明にする */
+}
+#photo-3:hover {
+  opacity: 0.75; /* 25％ほど透明にする */
+}
+#photo-4:hover {
+  opacity: 0.75; /* 25％ほど透明にする */
+}
+#photo-5:hover {
+  opacity: 0.75; /* 25％ほど透明にする */
+}
+#photo-6:hover {
+  opacity: 0.75; /* 25％ほど透明にする */
+}
+#photo-7:hover {
+  opacity: 0.75; /* 25％ほど透明にする */
+}
+#photo-8:hover {
+  opacity: 0.75; /* 25％ほど透明にする */
+}
+
