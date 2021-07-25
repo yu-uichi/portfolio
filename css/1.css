@@ -17,3 +17,6 @@ body {
     text-align: center;
     width: 100%;
 }
+.modo:hover{
+    color: rgb(225, 65, 65); 
+}
